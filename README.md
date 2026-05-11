@@ -1,2 +1,10 @@
-# android_device_qcom_qrd855
-qrd855 device tree
+# Android device tree for qti msmnile for arm64 (msmnile)
+
+```
+#
+# Copyright (C) 2026 The Android Open Source Project
+# Copyright (C) 2026 SebaUbuntu's TWRP device tree generator
+#
+# SPDX-License-Identifier: Apache-2.0
+#
+```
